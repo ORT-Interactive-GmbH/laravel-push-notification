@@ -18,5 +18,11 @@
             "Davibennun\\LaravelPushNotification": "src/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ORT-Interactive-GmbH/NotificationPusher"
+        }
+    ],
     "minimum-stability": "dev"
 }
